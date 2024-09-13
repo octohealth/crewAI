@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 ![Logo of crewAI, two people rowing on a boat](./docs/crewai_logo.png)
 
 # **crewAI**
